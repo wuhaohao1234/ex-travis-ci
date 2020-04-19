@@ -1,0 +1,20 @@
+{
+  "name": "ex-travis-ci",
+  "version": "1.0.0",
+  "description": "travis-ci-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo  building"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/ex-travis-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/ex-travis-ci/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/ex-travis-ci#readme"
+}
